@@ -13,7 +13,7 @@ if (WEBGL.isWebGLAvailable()) {
   var cubeGeo, cubeMaterial
 
   var objects = []
-//
+//1
   init()
   render()
 
